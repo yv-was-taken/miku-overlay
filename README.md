@@ -43,6 +43,10 @@ The overlay will:
 
 `assets/miku_sprite.png` — 240x60 APNG, 22 frames, ~30fps, infinite loop. Sourced from the Firefox theme at `~/sleeping-miku-theme/`.
 
+## Limitations
+
+- Only supports Helium's **compact** tab layout. Classic and vertical layouts are not supported.
+
 ## Dependencies
 
 - Rust stable
