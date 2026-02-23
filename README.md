@@ -41,7 +41,7 @@ The overlay will:
 
 ## Sprite
 
-`assets/miku_sprite.png` — 240x60 APNG, 22 frames, ~30fps, infinite loop. Sourced from the Firefox theme at `~/sleeping-miku-theme/`.
+`assets/miku_sprite.png` — 240x60 APNG, 22 frames, ~30fps, infinite loop. Sourced from the [Sleeping Hatsune Miku AnimEdit](https://addons.mozilla.org/en-US/firefox/addon/sleeping-hatsune-miku-animedit/) Firefox theme.
 
 ## Limitations
 
