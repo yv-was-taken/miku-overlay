@@ -52,3 +52,4 @@ The overlay will:
 - Rust stable
 - GTK4 + `gtk4-layer-shell` (C library, install via `sudo pacman -S gtk4-layer-shell`)
 - Sway (for IPC)
+- [Nushell](https://www.nushell.sh/) (for `install.nu`)
